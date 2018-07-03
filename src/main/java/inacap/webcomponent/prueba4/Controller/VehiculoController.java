@@ -26,7 +26,7 @@ import org.springframework.http.HttpStatus;
  * @author Seba
  */
 @RestController
-@RequestMapping("/url")
+@RequestMapping("/vehiculo")
 public class VehiculoController {
     
     @Autowired
